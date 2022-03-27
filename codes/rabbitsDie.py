@@ -25,7 +25,7 @@ def reccurrence(n, m):
     return S
 
 def main():
-    n = 81
-    m = 16
+    n = 99
+    m = 19
     print reccurrence(n,m)
 main()

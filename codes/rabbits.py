@@ -17,7 +17,7 @@ def recurrence(n, k):
     return S
 
 def main():
-    n = 30
-    k = 2
+    n = 35
+    k = 5
     print recurrence(n, k)
 main()
